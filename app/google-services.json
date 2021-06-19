@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929828819095",
+    "project_id": "english-assistant-chatbot",
+    "storage_bucket": "english-assistant-chatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929828819095:android:29ddf13c683be0031ed9d2",
+        "android_client_info": {
+          "package_name": "com.bae.dialogflowbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929828819095-u7dm70h8i5jpv9uhai3osmh3d6m1aa8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bae.dialogflowbot",
+            "certificate_hash": "b4ed6eacf0ee4b8b81e41341baeada08aca5b402"
+          }
+        },
+        {
+          "client_id": "929828819095-242kkgjdrue8o7c72co22usv1gk8hbf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntG33kMrfoqVRnKOa5O8usJIPsWB34cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929828819095-242kkgjdrue8o7c72co22usv1gk8hbf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

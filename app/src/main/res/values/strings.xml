@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">English Assistant Chatbot</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!--    Floating text template-->
+    <string name="temp1">hlw</string>
+    <string name="temp2">hello</string>
+    <string name="temp3">hey</string>
+    <string name="temp4">Temp4</string>
+    <string name="temp5">Temp5</string>
+    <string name="temp6">Temp6</string>
+    <string name="temp7">Temp7</string>
+    <string name="temp8">Temp8</string>
+    <string name="temp9">temp9</string>
+    <string name="temp10">temp10</string>
+    <string name="chatBotName">Bot</string>
+
+    //fb auth
+    <string name="facebook_app_id">177045311036725</string>
+    <string name="fb_login_protocol_scheme">fb177045311036725</string>
+
+</resources>

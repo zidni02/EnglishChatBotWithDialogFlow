@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:elevation="5dp"
+        android:layout_gravity="right"
+        android:gravity="center|right"
+        android:text="hello"
+        android:id="@+id/message_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:background="@drawable/bg_chat_send"
+        android:minHeight="50dp"
+        android:padding="8dp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/botIcon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:minHeight="50dp"
+            android:padding="5dp"
+            android:src="@drawable/robot1" />
+
+        <TextView
+            android:elevation="5dp"
+            android:gravity="center|left"
+            android:id="@+id/message_receive"
+            android:layout_width="wrap_content"
+            android:minWidth="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="2dp"
+            android:background="@drawable/bg_chat_receive"
+            android:minHeight="50dp"
+            android:padding="8dp"
+            android:textColor="@android:color/black"
+            android:textSize="20sp">
+
+        </TextView>
+    </LinearLayout>
+
+
+</LinearLayout>

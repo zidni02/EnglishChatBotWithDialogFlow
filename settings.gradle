@@ -1,0 +1,2 @@
+rootProject.name='EnglishChatBotWithDialogFlow'
+include ':app'
